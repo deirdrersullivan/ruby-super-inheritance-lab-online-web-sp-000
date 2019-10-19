@@ -8,5 +8,10 @@ end
 
 def raise_hand
   super
-  loop times do
+  10.times do
+    "Pick me!"
+  end
+end 
+
+
     
